@@ -14,7 +14,7 @@ PX4 supports:
 
 ## Where to Buy
 
-* TBD
+https://www.terabee.com/
 
 ## Pinouts
 
